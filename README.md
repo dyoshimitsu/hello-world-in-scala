@@ -1,2 +1,2 @@
-# hello-world-on-scala
+# hello-world-in-scala
 Hello world
